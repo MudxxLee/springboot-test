@@ -1,0 +1,3 @@
+schedule:
+  demo-cron: 0 0 0/1 * * ?
+  demo-desc: 测试定时任务
